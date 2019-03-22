@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "fs-extra": "2.1.2",
-    "ask-cli": "1.4.5"
+    "ask-cli": "1.4.5",
+    "minimist": "1.2.0"
   },
   "devDependencies": {},
   "author": "",
