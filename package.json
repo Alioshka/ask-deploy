@@ -1,0 +1,18 @@
+{
+  "name": "ask-deploy",
+  "version": "0.0.1",
+  "description": "",
+  "main": "deploy.js",
+  "scripts": {},
+  "engines": {
+    "node": ">=6.9.1",
+    "npm": ">=3.10.8"
+  },
+  "dependencies": {
+    "fs-extra": "2.1.2",
+    "ask-cli": "1.4.5"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
